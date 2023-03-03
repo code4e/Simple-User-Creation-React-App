@@ -1,0 +1,22 @@
+.user__form{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+}
+label{
+    /* margin: 10px; */
+    margin: 8px 0;
+}
+.username__cont, .age__cont{
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: flex-start;
+}
+input{
+    width: 100%;
+    padding: 5px;
+}
+
+
